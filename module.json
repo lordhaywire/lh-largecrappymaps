@@ -1,0 +1,34 @@
+{
+    "name": "LH-LargeCrappyMaps",
+    "title": "Lord Haywire's Large Crappy Maps",
+    "description": "A collection of my 100x100 grid maps.  All free!",
+    "author": "Lord Haywire",
+    "authors": [],
+    "version": "0.0.8",
+    "minimumCoreVersion": "0.8.9",
+    "compatibleCoreVersion": "0.8.9",
+    "packs": [
+        {
+            "name": "module-scenes",
+            "label": "Lord Haywire's Large Crappy Maps",
+            "path": "./packs/LH-scenes.db",
+            "entity": "Scene"
+        }
+    ],
+    "manifest": "",
+    "download": "",
+    "dependencies": [
+        {
+            "name": "betterroofs"
+        },
+        {
+            "name": "lib-wrapper"
+        },
+        {
+            "name": "wall-height"
+        },
+        {
+            "name": "levels"
+        }
+    ]
+  }

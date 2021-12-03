@@ -2,7 +2,7 @@
 
 # LH-LargeCrappyMaps
 
-A collection of my 100x100 grid maps for FoundryVTT created with DungeonDraft, FoundryVTT and the FoundryVTT modules Levels and Better Roofs.
+A collection of my 100x100 grid maps for FoundryVTT created with DungeonDraft, FoundryVTT and the FoundryVTT modules Levels, Better Roofs and wall-height.
 
 If you are watching me stream on [Twitch](https://www.twitch.tv/lordhaywire) then you can download the files I started working on at the beginning of the stream from the [streaming](https://github.com/lordhaywire/lh-largecrappymaps/tree/streaming) branch.
 

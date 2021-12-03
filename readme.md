@@ -1,3 +1,5 @@
+# I still need someone to test out this github repository to make sure it works for another person.
+
 # LH-LargeCrappyMaps
 
 A collection of my 100x100 grid maps for FoundryVTT created with DungeonDraft, FoundryVTT and the FoundryVTT modules Levels and Better Roofs.

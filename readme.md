@@ -30,8 +30,8 @@ Bridge Town North South
 
 ### Thanks
 
-Bailywiki for his tutorial videos about FoundryVTT and Levels
+Bailywiki for his tutorial videos about FoundryVTT and Levels.
 
 TheRipper93 for his FoundryVTT modules Levels, Better Roofs, Hurryup etc.
 
-Forgotten Adventures for creating such amazing assets
+Forgotten Adventures for creating such amazing assets.

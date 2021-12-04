@@ -6,7 +6,7 @@ A collection of my 100x100 grid maps for FoundryVTT created with DungeonDraft, F
 
 If you are watching me stream on [Twitch](https://www.twitch.tv/lordhaywire) then you can download the files I started working on at the beginning of the stream from the [streaming](https://github.com/lordhaywire/lh-largecrappymaps/tree/streaming) branch.
 
-This does not include the DungeonDraft files because you would need to be using the same assets as me and I think it would just turn into a big clusterfuck.
+This does not include the DungeonDraft files because you don't need them for the FoundryVTT version but I have included them in another repository called [dungeondraft-maps](https://github.com/lordhaywire/dungeondraft-maps).  I have not tested that they work with another person.  They require purchased assets to work.
 
 ## Dependancy Modules in FoundryVTT
 

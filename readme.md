@@ -22,11 +22,23 @@ levels
 
 All maps are 100x100 grid squares at 100 pixels.
 
-Farms North South
+### Farms North South
 
-West Town East West
+#### Known Issues
 
-Bridge Town North South
+Maybe set up a roof level for all the roofs
+
+### Westerm Town East West
+
+### Bridge Town North South
+
+Torch/Lantern/Candles Etc Light Color - #e6620a - 60/30
+
+Candle - 10 dim/5 bright
+
+#### Known Issues
+
+Candle lights need to be put on the right level in levels.
 
 ### Thanks
 

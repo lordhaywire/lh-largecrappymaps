@@ -36,10 +36,6 @@ Torch/Lantern/Candles Etc Light Color - #e6620a - 60/30
 
 Candle - 10 dim/5 bright
 
-#### Known Issues
-
-Candle lights need to be put on the right level in levels.
-
 ### Thanks
 
 Bailywiki for his tutorial videos about FoundryVTT and Levels.

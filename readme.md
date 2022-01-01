@@ -58,6 +58,8 @@ Farm land with a road running from the north to the south.
 
 Used the built in FoundryVTT roofing.  Should probably change to Better Roofs at some point.  Basically that means tokens can't walk on the roofs.
 
+Need to fix lighting so it flickers.
+
 ### Westerm Town East West
 
 An old west style town with an underground level.  There is a road running east west.

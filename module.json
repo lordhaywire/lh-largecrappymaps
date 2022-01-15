@@ -5,8 +5,8 @@
     "author": "Lord Haywire",
     "authors": [],
     "version": "0.0.8",
-    "minimumCoreVersion": "0.8.9",
-    "compatibleCoreVersion": "0.8.9",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
     "packs": [
         {
             "name": "module-scenes",

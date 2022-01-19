@@ -10,6 +10,8 @@ This repository does not include the DungeonDraft files because you don't need t
 
 I also added a [Discord](https://discord.gg/NfVdrnwEQ4) if you want to talk about the maps!
 
+All assets are from [Forgotten Adventures](https://www.patreon.com/forgottenadventures).  You should check them out!
+
 ## Dependancy Modules in FoundryVTT
 
 betterroofs
@@ -52,7 +54,7 @@ At some point I am going to make all the lighting the same on all the maps, but 
 
 ### Farms North South
 
-Farm land with a road running from the north to the south.
+Farmland with a road running from the north to the south.
 
 #### Known Issues
 
@@ -60,9 +62,9 @@ Used the built in FoundryVTT roofing.  Should probably change to Better Roofs at
 
 Need to fix lighting so it flickers.
 
-### Westerm Town East West
+### Western Town East West
 
-An old west style town with an underground level.  There is a road running east west.
+An old west style town with an underground dungeon level.  There is a road running east west.
 
 #### Known Issues
 
@@ -70,11 +72,11 @@ This map has a shit ton of walls.  Like thousands of walls because of all the tr
 
 ### Bridge Town North South
 
-A bridge town with an underground level, and a level cut out in the middle with a river running through it.
+A town on two sides of a river with a bridge that runs across the river.  There is an underground level with basements, passages, and a cavern.  The road runs north south.
 
 #### Known Issues
 
-The polygon for Levels has gone crazy and I am not sure how to fix that.  It works great except for sometimes the roofs get a little wonky.  At some point I think I am going to have to manually draw all the polygons for Levels.
+Most of the issues with the Levels FoundryVTT module have been fixed, but sometimes the roofs don't disappear when a token goes under them.  There isn't really anything that can be done about that because it is a FoundryVTT issue.  If you noticed other issues please put in an issue on this github!
 
 #### Lighting
 

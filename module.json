@@ -15,8 +15,6 @@
             "entity": "Scene"
         }
     ],
-    "manifest": "",
-    "download": "",
     "dependencies": [
         {
             "name": "betterroofs"
@@ -30,5 +28,8 @@
         {
             "name": "levels"
         }
-    ]
-  }
+    ],
+    "url": "https://github.com/lordhaywire/lh-largecrappymaps",
+    "manifest": "https://raw.githubusercontent.com/lordhaywire/lh-largecrappymaps/master/module.json",
+    "download": "https://github.com/lordhaywire/lh-largecrappymaps/archive/refs/heads/master.zip"
+}

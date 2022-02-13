@@ -2,12 +2,16 @@
 
 ## Feb 22 2022
 
-Made all lighting consistant on Farm_North_South
+### Farm_North_South
+
+Made all lighting consistant
 
 Updated all walls to work with Levels
 
 Updated all roofs to work with Levels
 
 Updated background image with new DungeonDraft file
+
+### Other
 
 Added a screenshot folder

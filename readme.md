@@ -40,9 +40,11 @@ All maps are 100x100 grid squares at 100 pixels and have lighting and roofs.
 
 ## Work in Progress Maps (WIP)
 
-Foundry makes it difficult without doing a bunch of work later to move maps around in folders, so I have a hidden folder for testing that you might see in my stream.  It isn't important.
-
 If the map has WIP in front of it then it is a work in progress and may be in any state including completely broken.  The WIP files are included so people can look at what I am doing while I stream.
+
+Foundry makes it difficult without doing a bunch of work later to move maps around in folders, so I have a hidden folder for testing that you might see in my stream.  
+
+It isn't important.
 
 ## Known issues
 
@@ -87,6 +89,18 @@ Most of the issues with the Levels FoundryVTT module have been fixed, but someti
 Torch/Lantern Etc Light Color - #e6620a - 60/30
 
 Candle - #e6620a- 10 dim/5 bright
+
+### WIP - City Center
+
+At some point this is going to be a city center.
+
+### WIP - Fort on Hill
+
+A fort on a hill with a large underground area in the hill.
+
+### WIP - Hole
+
+A massive 24 level hole in the ground.  I imagine it is going to break Foundry.
 
 ### Thanks
 

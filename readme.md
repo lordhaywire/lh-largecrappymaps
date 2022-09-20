@@ -102,6 +102,12 @@ A fort on a hill with a large underground area in the hill.
 
 A massive 24 level hole in the ground.  I imagine it is going to break Foundry.
 
+Underground walls are Cliff Stone Volcanic B1.
+
+Underground floor is Gravel 05 E.
+
+Underground edge is Cave Wall Top Path.
+
 ### Thanks
 
 Bailywiki for his tutorial videos about FoundryVTT and Levels.

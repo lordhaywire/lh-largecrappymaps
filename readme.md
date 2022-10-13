@@ -102,11 +102,17 @@ A fort on a hill with a large underground area in the hill.
 
 A massive 24 level hole in the ground.  I imagine it is going to break Foundry.
 
-Underground walls are Cliff Stone Volcanic B1.
+Underground walls are Cliff Stone Volcanic B1. Most is x2 size.
+
+Underground edge is Cave Wall Top Path.
 
 Underground floor is Gravel 05 E.
 
-Underground edge is Cave Wall Top Path.
+Underground room floors are Rock Tile A2.
+
+Lava D.
+
+
 
 ### Thanks
 
